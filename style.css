@@ -1,0 +1,46 @@
+
+*{
+  margin:5px;
+  padding:0 auto;
+}
+.div_menu{
+  background-color: black;
+  text-transform: uppercase;
+  font-size: 23px;
+  margin-bottom: 10px;
+}
+a:link{
+  color:yellow;
+}
+a:hover{
+  color:red;
+}
+a:visited{
+  color:white;
+}
+a:active{
+  color:green;
+}
+.slider-div{
+border: 1px solid white;
+margin: 0 auto;
+text-align: center;
+}
+.slider{
+  margin:0 0;
+}
+
+p{
+  margin-bottom: 20px;
+}
+footer{
+  background-color: black;
+  color:white;
+  text-align: center;
+}
+.footer{
+  font-size: 23px
+}
+.footer-alamat{
+  font-size: 18px;
+}
